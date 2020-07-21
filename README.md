@@ -1,5 +1,3 @@
-[Weibo](http://weibo.com/pc175) | [Twitter](https://twitter.com/mroccyen) | [E-Mail](mailto:wowohoo@qq.com) | [Sponsor](https://wangchujiang.com/sponsor.html)
-
 <div align="center">
   <br>
   <br>
@@ -10,14 +8,14 @@
   </a>
   <br>
   <p>
-    <a href="http://weibo.com/pc175">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/MrocCyen/MrocCyen/master/imgs/weibo.svg?sanitize=true" />
+    <a href="https://juejin.im/user/579ec4b85bbb500064e6f327">
+      <img width="18" height="18" src="imgs/juejin.svg?sanitize=true" />
     </a>
-    <a href="https://twitter.com/mroccyen">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/MrocCyen/MrocCyen/master/imgs/twitter.svg?sanitize=true" />
+    <a href="https://gitee.com/MrocCyen">
+      <img width="18" height="18" src="imgs/mayun.svg?sanitize=true" />
     </a>
     <a href="mailto:qingshanpeng@126.com">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/MrocCyen/MrocCyen/master/imgs/mail.svg?sanitize=true" />
+      <img width="18" height="18" src="imgs/email.svg?sanitize=true" />
     </a>
   </p>
   <p>Hi, I'm Cyenq, Java developer from ChengDu, China.</p>
