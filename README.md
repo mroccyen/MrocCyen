@@ -9,13 +9,13 @@
   <br>
   <p>
     <a href="https://juejin.im/user/579ec4b85bbb500064e6f327">
-      <img width="18" height="18" src="imgs/juejin.svg?sanitize=true" />
+      <img width="18" height="18" src="https://raw.githubusercontent.com/MrocCyen/MrocCyen/master/imgs/juejin.svg" />
     </a>
     <a href="https://gitee.com/MrocCyen">
-      <img width="18" height="18" src="imgs/mayun.svg?sanitize=true" />
+      <img width="18" height="18" src="https://raw.githubusercontent.com/MrocCyen/MrocCyen/master/imgs/mayun.svg" />
     </a>
     <a href="mailto:qingshanpeng@126.com">
-      <img width="18" height="18" src="imgs/email.svg?sanitize=true" />
+      <img width="18" height="18" src="https://raw.githubusercontent.com/MrocCyen/MrocCyen/master/imgs/email.svg" />
     </a>
   </p>
   <p>Hi, I'm Cyenq, Java developer from ChengDu, China.</p>
@@ -27,3 +27,4 @@
   <br>
   <br>
 </div>
+
