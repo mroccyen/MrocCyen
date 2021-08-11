@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ### Contact me 📱
 
-1. [掘金](https://juejin.im/user/579ec4b85bbb500064e6f327)
+1. [juejin](https://juejin.im/user/579ec4b85bbb500064e6f327)
 3. email :  qingshanpeng@126.com
