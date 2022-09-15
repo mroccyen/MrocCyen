@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&width=435&lines=Hello!+I+am+mroccyen" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=25&pause=1000&width=435&lines=Hello!+I+am+mroccyen" alt="typing-svg">
 </p>
 
 Hi 👋! I'm a Java developer from ChengDu, China. I will always maintain and improve.
@@ -7,9 +7,9 @@ Hi 👋! I'm a Java developer from ChengDu, China. I will always maintain and im
 **About me**
 
 - 🔭 I love writing java and golang, and building fun experiments on type-level
-- 💬 Brainstorm with me over tech, algorithms, career, and music
 - 📫 How to reach me: qingshanpeng@126.com
-- 📝 [Resume]()
+- 💬 Ask me about anything tech related, I am happy to help
+- 📝 Checkout my [Resume](https://github.com/mroccyen)
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  /></code>
@@ -25,5 +25,5 @@ Hi 👋! I'm a Java developer from ChengDu, China. I will always maintain and im
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  /></code>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mroccyen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroccyen&layout=compact&theme=buefy&hide_border=true" /></a> |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
+| <a href="https://github.com/mroccyen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mroccyen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mroccyen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroccyen&layout=compact&theme=buefy&hide_border=true" /></a> |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
